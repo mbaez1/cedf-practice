@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="GY[$R.}[a/@W#w7EpO@P" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="1VJ_=[KBN}MjMrLy_[{D"><field name="i">IconNames.Happy</field></block></statement></block></xml>
